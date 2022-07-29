@@ -1,0 +1,33 @@
+git checkout trunk (check creeated branch)
+
+common commands:
+ls
+cd
+git init
+git remote add origin <gitLink>
+git remote -v (upload file)
+git add
+git commit -m "First commit"
+git push origin master
+git status
+git rm --cached index.html
+git add *.html
+git add . (add all in statging)
+
+add name and email to git command:
+git config --global user.name 'Kristian Corrales'
+git config --global user.email 'kristian.corrales.osv@fedex.com'
+
+
+
+
+git help
+
+
+$ cd /D
+$ ls
+$ mkdir Git
+$ git clone https://gitlab.prod.fedex.com/APP3536834/gemini-workallocationrules-data-service.git
+
+
+
